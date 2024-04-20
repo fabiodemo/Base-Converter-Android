@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaseConversion</string>
+    <string name="bin_ria">Binária</string>
+    <string name="decimal">Decimal</string>
+    <string name="octal">Octal</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="limpar">Limpar</string>
+    <string name="converter">Converter</string>
+    <string name="bin_rio">Binário</string>
+    <string name="_0">0</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="your_number">Your number:</string>
+    <string name="result">Result:</string>
+    <string name="binary">Binary</string>
+</resources>
